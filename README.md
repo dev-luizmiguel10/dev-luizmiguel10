@@ -49,7 +49,7 @@ Atualmente estou evoluindo em:
 
 ## 📫 Contato
 
-📧 Email: [seuemail@email.com](mailto:mluiz8650@gmail.com)
+📧 Email: [mluiz8650@gmail.com](mailto:mluiz8650@gmail.com)
 💼 LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/luiz-miguel-aguiar-88635223b/)
 
 ---
