@@ -16,9 +16,9 @@ Tenho experiência na construção de APIs, manipulação de banco de dados,Dese
 
 ![C#](https://img.shields.io/badge/C%23-.NET-blue)
 ![.NET](https://img.shields.io/badge/.NET-8.0-purple)
-![SQL Server](https://img.shields.io/badge/SQLServer-Database-red)
-![Entity Framework](https://img.shields.io/badge/EntityFramework-ORM-green)
-![Git](https://img.shields.io/badge/Git-VersionControl-black)
+![SQL Server](https://img.shields.io/badge)
+![Entity Framework](https://img.shields.io/badge/)
+![Git](https://img.shields.io/badge/)
 
 ## 📫 Contato
 
