@@ -11,13 +11,6 @@
 Sou desenvolvedor com foco em backend utilizando o ecossistema .NET.
 Tenho experiência na construção de APIs, manipulação de banco de dados,Desenvolvimento Web com Asp Net Mvc e organização de projetos seguindo boas práticas .
 
-Atualmente estou evoluindo em:
-
-* 🔹 Dapper e otimização de consultas
-* 🔹 Arquitetura limpa (Clean Architecture)
-* 🔹 Integração com serviços (APIs externas, Azure)
-
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
