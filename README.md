@@ -17,7 +17,7 @@ Atuo organizando projetos com boas práticas, aplicando conceitos de DDD (Domain
 ## 🛠 Tecnologias e Ferramentas
 
 - C#
-- .NET / .NET 8
+- .NET
 - ASP.NET Core
 - ASP.NET MVC
 - Entity Framework
@@ -35,8 +35,4 @@ Atuo organizando projetos com boas práticas, aplicando conceitos de DDD (Domain
 📧 Email: mluiz8650@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/
 
----
 
-## 🎯 Objetivo
-
-Busco oportunidades como Desenvolvedor Backend, onde eu possa contribuir com projetos reais, evoluir tecnicamente e agregar valor ao time.
