@@ -1,6 +1,6 @@
 # Luiz Miguel
 
-💻 Desenvolvedor Backend focado em C# e .NET  
+💻 Desenvolvedor Backend  C# e .NET  
 🚀 Experiência com APIs REST, ASP.NET, ASP.NET MVC, SQL Server e boas práticas com DDD  
 📍 São Paulo - Brasil  
 
@@ -27,6 +27,8 @@ Atuo organizando projetos com boas práticas, aplicando conceitos de DDD (Domain
 - CSS3
 - Bootstrap
 - jQuery
+- XUnit
+- CI/CD
 
 ---
 
