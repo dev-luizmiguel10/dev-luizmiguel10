@@ -27,8 +27,10 @@ Atuo organizando projetos com boas práticas, aplicando conceitos de DDD (Domain
 - CSS3
 - Bootstrap
 - jQuery
-- XUnit
+- Testes Unitarios
+- Testes de Integração
 - CI/CD
+- AzureDevops
 
 ---
 
